@@ -2,7 +2,7 @@ import sys
 
 
 FILE_PATH = "./test.bmp"
-WIDTH_OUT = 200
+WIDTH_OUT = 100
 
 def get_char(val):
     if val>240:  return " "
